@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "A nice and Witty quote - you like those, _no?_"
 
 ---
 Your text
